@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Category-Robotics-555" />
   <img src="https://img.shields.io/badge/Skills-Mechanics%20%7C%20Sensors%20%7C%20Automation-555" />
-  <img src="https://img.shields.io/badge/Tools-Microcontroller-555" />
 </p>
 
 <p>
