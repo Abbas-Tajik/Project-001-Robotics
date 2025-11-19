@@ -2,12 +2,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Category-Robotics-555" />
-  <img src="https://img.shields.io/badge/Skills-Mechanics%20%7C%20Sensors%20%7C%20Automation-555" />
+  <img src="https://img.shields.io/badge/Skills-Python%20%7C%20Algorithm%20Design-555" />
+  <img src="https://img.shields.io/badge/Tools-VS%20Code-555" />
 </p>
 
 <p>
-  This task introduced me to the basics of robotics and simple automation. I built a small setup that
-  could identify and pick up a can from a fixed position, mainly focusing on getting the movement and
-  sensing logic working reliably. Most of the work involved testing, adjusting, and understanding how
-  the mechanical and electronic parts behaved together. It was my first proper hands-on robotics exercise.
+  This project focused on improving and optimising the Robot Can Picker algorithm using Python in VS Code. 
+  The work involved refining the code logic, increasing efficiency, and ensuring readability. No physical 
+  hardware was used; the assignment was purely software-based, focusing on algorithm development and testing.
 </p>
